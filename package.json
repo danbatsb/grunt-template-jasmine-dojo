@@ -20,6 +20,6 @@
 		"lodash": "^2.4.1"
 	},
 	"peerDependencies": {
-		"grunt-contrib-jasmine": "^0.8.0"
+		"grunt-contrib-jasmine": ">=0.8.0"
 	}
 }
